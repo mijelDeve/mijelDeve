@@ -8,4 +8,4 @@
 - Me gusta crear videos en [Youtube](https://www.youtube.com/@mijeldev)
 
 ## 🌐 Conéctate conmigo
-- [LinkedIn]([enlace a tu LinkedIn](https://www.linkedin.com/in/mijeldev/))
+- [LinkedIn](https://www.linkedin.com/in/mijeldev/))
