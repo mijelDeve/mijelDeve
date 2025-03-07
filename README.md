@@ -1,8 +1,9 @@
 ## Hey, ¿cómo están todos?
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://i.gifer.com/3vj9.gif" style="max-width: 100%; height: auto;">
-</div>
+<p align="center">
+  <img src="https://i.gifer.com/3vj9.gif" alt="Imagen centrada" style="max-width: 100%; height: auto;">
+</p>
+
 <h1 align="center">Hey!! Soy Miguel Castillo</h1>
 
 <h4 align="left">Soy un desarrollador :).</h4>
