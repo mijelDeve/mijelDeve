@@ -1,7 +1,7 @@
 ## Hey, ¿cómo están todos?
 
 <div style="display: flex; justify-content: center; width: 100%;"> 
-  <img src="https://i.gifer.com/3vj9.mp4" style="width: 100%">
+  <img src="https://i.gifer.com/3vj9.gif" style="width: 100%">
 </div>
 
 <h1 align="center">Hey!! Soy Miguel Castillo</h1>
