@@ -40,6 +40,17 @@
 
 <br/>
 
+# Proyectos
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="URL_DE_LA_IMAGEN" alt="Proyecto Open Source" style="width: 150px; height: auto; margin-right: 20px;">
+  <div>
+    <h3>Proyecto Open Source Finder</h3>
+    <p>Esta aplicación te permite encontrar proyectos open source en GitHub. Usa la API de GitHub para buscar repositorios según tus intereses y necesidades, facilitando la contribución a proyectos que están buscando colaboración.</p>
+    <a href="github-help.png" target="_blank">Ver en GitHub</a>
+  </div>
+</div>
+
 
 # Sobre mi
 - 🖥️ React developer
