@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="profile.sh --live" width="100%">
+  <img src="./terminal.svg" alt="profile.sh --live" width="100%">
 </p>
 
 
