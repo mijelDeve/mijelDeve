@@ -12,7 +12,7 @@ Lima, Perú 🇵🇪 · [Portfolio](https://mijelnext.vercel.app/) · [LinkedIn]
 
 ## Sobre mí
 
-Desarrollador Full Stack con más de 3 años de experiencia construyendo sistemas reales para empresas.  
+Desarrollador Full Stack con más de 4 años de experiencia construyendo sistemas reales para empresas.  
 Especializado en **Frontend** (React, Next.js, Vue 3) con sólida base en **Backend** (NestJS, Express, Supabase).
 
 He desarrollado sistemas de gestión interna, flujos de aprobación, chat en tiempo real y aplicaciones con IA, todos en producción.
