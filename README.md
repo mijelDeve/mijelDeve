@@ -47,6 +47,8 @@ Sistemas reales desarrollados para clientes:
 - **PCR** — Gestión de archivos + flujos de aprobación + chat en tiempo real (WebSockets)
 - **Layher** — Sistema de gestión personalizado (Vue 3 + TypeScript)
 
+### TICKETERA @ VAOPE *(repos privados)*
+- **SISTEMA BACKOFFICE** — Módulos de configuración para ticketera vaope (React + Laravel)
 ---
 
 ## Tech Stack
