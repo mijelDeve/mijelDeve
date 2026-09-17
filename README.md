@@ -75,15 +75,6 @@ Sistemas reales desarrollados para clientes:
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mijelDeve&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijelDeve&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ## Contacto
 
 ¿Quieres colaborar, hablar de tecnología o simplemente saludar?
