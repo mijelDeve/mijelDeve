@@ -1,3 +1,6 @@
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=emmi-lili)
+
+
 # Hi, I'm Miguel 👋
 
 **Full Stack Developer** · React · Vue 3 · Next.js · NestJS · Supabase · TypeScript
