@@ -1,4 +1,6 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=mijelDeve)
+<p align="center">
+  <img src="./assets/terminal.svg" alt="profile.sh --live" width="100%">
+</p>
 
 
 # Hi, I'm Miguel 👋
