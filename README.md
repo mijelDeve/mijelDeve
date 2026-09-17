@@ -6,7 +6,7 @@
 # Hola, soy Miguel 👋
 
 **Full Stack Developer** · React · Vue 3 · Next.js · NestJS · Supabase · TypeScript  
-Lima, Perú 🇵🇪 · [Portfolio](https://mijel-website.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mijeldev/) · [YouTube](https://www.youtube.com/@mijeldev)
+Lima, Perú 🇵🇪 · [Portfolio](https://mijelnext.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mijeldev/) · [YouTube](https://www.youtube.com/@mijeldev) · [Documentación](https://mijel-dev-conceptos-programacion.vercel.app/#/)
 
 ---
 
